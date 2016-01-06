@@ -10,3 +10,7 @@ img.intro {
   width: 30%;
   height: 30%;
 }
+
+div.intro {
+  font-weight: bold;
+}
